@@ -310,8 +310,12 @@ button {
   flex-wrap: wrap;
   gap: 24px;
   margin-right: 4px;
+  color: #000000;
+  font-family: Raleway, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
 }
-
 .about__title {
   margin-bottom: 105px;
   color: #000000;
@@ -320,14 +324,6 @@ button {
   font-size: 40px;
   line-height: 100%;
   text-transform: uppercase;
-}
-
-.about__text {
-  color: #000000;
-  font-family: Raleway, sans-serif;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 24px;
 }
 
 .footer {
