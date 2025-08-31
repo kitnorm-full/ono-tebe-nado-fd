@@ -1,1 +1,1 @@
-https://github.com/kitnorm-full/ono-tebe-nado-fd
+https://github.com/kitnorm-full/ono-tebe-nado-f
