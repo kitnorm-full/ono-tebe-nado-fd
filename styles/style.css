@@ -239,7 +239,6 @@ button {
 
 .card__title {
   z-index: 2;
-  padding: 40px 40px 0px;
   padding: 48px 40px 0px;
   color: #ffffff;
   font-family: Raleway, sans-serif;
@@ -254,7 +253,6 @@ button {
 
 .card__text {
   z-index: 2;
-  padding: 0 40px 40px;
   padding: 0 40px 48px;
   color: #ffffff;
   font-family: Raleway, sans-serif;
